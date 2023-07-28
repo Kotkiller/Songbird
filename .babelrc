@@ -1,0 +1,4 @@
+{
+    "presets": ["@babel/presrt-env"],
+    "presets": ["@babel/plugin-proposal-class-properties"]
+}
